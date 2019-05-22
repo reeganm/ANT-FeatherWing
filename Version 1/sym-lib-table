@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name D52M-Feather-Wing-rescue)(type Legacy)(uri "${KIPRJMOD}/D52M Feather Wing-rescue.lib")(options "")(descr ""))
+  (lib (name "ESP FEATHER")(type Legacy)(uri "C:/Users/mcall/Desktop/D52M Feather Wing/Version 2/ESP FEATHER.lib")(options "")(descr ""))
+)
