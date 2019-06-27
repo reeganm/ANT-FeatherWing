@@ -31,3 +31,7 @@ in using SPI will have those pins broken out.
 
 ### HUZZAH32 Stack
 ![Stacked](https://raw.githubusercontent.com/reeganm/ANT-FeatherWing/master/images/esp32_stack.jpg)
+
+## Questions/Feedback
+
+Questions about this project should be posted to http://groups.google.com/group/ant-api?pli=1 Be sure to provide as much detail as possible (e.g. what radios, firmware versions, configuration and code).
