@@ -18,6 +18,8 @@ in using SPI will have those pins broken out.
 |BR1    |P210   |32         |
 |BR2    |P213   |21         |
 |BR3    |P212   |14         |
+|RX     |P218   |17         |
+|TX     |P217   |16         |
 
 ## Renderings
 
